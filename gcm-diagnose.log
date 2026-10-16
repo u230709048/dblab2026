@@ -1,0 +1,196 @@
+﻿Diagnose log at 2026-10-09T10:17:49Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.7.3+5fa7116896c82164996a609accd1c5ad90fe730a
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26200)
+Reading environment variables... OK
+ Variables:
+EFC_22788_2775293581=1
+ProgramFiles(x86)=C:\Program Files (x86)
+MSYSTEM=MINGW64
+ProgramW6432=C:\Program Files
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
+EFC_22788_3789132940=1
+PROCESSOR_ARCHITECTURE=AMD64
+Path=C:/Program Files/Git/mingw64/libexec/git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\seram\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;D:\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;d:\cursor\resources\app\codeBin;C:\Users\seram\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\seram\AppData\Local\Programs\Python\Python311\;c:\Users\seram\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;c:\Users\seram\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\copilotCli;D:\fluter dosyası\flutter\bin\cache\dart-sdk\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;D:\nodejs\;C:\Program Files\Git\cmd;c:\Users\seram\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;c:\Users\seram\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\copilotCli;D:\fluter dosyası\flutter\bin\cache\dart-sdk\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;D:\nodejs\;C:\Program Files\Git\cmd;C:\Users\seram\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\seram\AppData\Local\Programs\Python\Python313\;C:\Users\seram\AppData\Local\Programs\Python\Launcher\;C:\Users\seram\AppData\Local\Microsoft\WindowsApps;D:\code\vs\Microsoft VS Code\bin;D:\IntelliJ IDEA 2024.3.4\bin;C:\Users\seram\AppData\Roaming\npm;C:\Users\seram\AppData\Local\Programs\Antigravity\bin;C:\Users\seram\AppData\Local\Programs\Antigravity IDE\bin;C:\Users\seram\OneDrive\Masaüstü\aaaaaaaa\flutter\bin;D:\fluter dosyası\flutter\bin;D:\fluterdosyasi\flutter\bin;C:\Users\seram\AppData\Local\GitHubDesktop\bin;D:\cursor\resources\app\bin
+HOMEPATH=\Users\seram
+ANDROID_AVD_HOME=D:\androidemulators\avd
+EFC_22788_2283032206=1
+PROCESSOR_REVISION=ba02
+TEMP=C:\Users\seram\AppData\Local\Temp
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING=Default
+LOGONSERVER=\\SEDATVICTUS16
+TERM=xterm-256color
+USERNAME=seram
+SystemRoot=C:\WINDOWS
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+PLINK_PROTOCOL=ssh
+OneDrive=C:\Users\seram\OneDrive
+USERDOMAIN_ROAMINGPROFILE=SEDATVICTUS16
+CommonProgramFiles=C:\Program Files\Common Files
+ZES_ENABLE_SYSMAN=1
+OneDriveConsumer=C:\Users\seram\OneDrive
+ProgramData=C:\ProgramData
+LC_CTYPE=C.UTF-8
+IntelliJ IDEA=D:\IntelliJ IDEA 2024.3.4\bin;
+IGCCSVC_DB=AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAD6uGozXbx0qMuH0zHsbqhwQAAAACAAAAAAAQZgAAAAEAACAAAAARdcGlkLpAvhnl02ntSQ+QyCHqgiQlET8HQpfI3PVnFQAAAAAOgAAAAAIAACAAAABwMLpcnD5X7HF2kt/qL5RMQfSYJzMlKuICOUN9rtDpS2AAAACJCgqp9wfzIV4QjXFmRDPT8npGuFH+zUfb4OS8T4z6VnEwujbCoW1YezdtDzvGOhXhha8UjJ4OIJkLx4N2t6lCbeOewDtVVqbVECBo89SiVi7fv2KGsfAujktEcyF/yhVAAAAA7+N581ZYZ6HFGdp2UFSy28u7jwZtMrnxsLo6o4/XfpEFtoZotV6Bes/tvkzkXftruVTXhg6HE0w0A9sM9y/+fQ==
+COMPUTERNAME=SEDATVICTUS16
+EFC_22788_344590478=1
+ALLUSERSPROFILE=C:\ProgramData
+CommonProgramW6432=C:\Program Files\Common Files
+EFC_22788_1592913036=1
+TMP=C:\Users\seram\AppData\Local\Temp
+SESSIONNAME=Console
+DriverData=C:\Windows\System32\Drivers\DriverData
+HOMEDRIVE=C:
+windir=C:\WINDOWS
+GIT_TRACE2_PARENT_SID=3d3efe64-2060-4ede-82e9-252f38a1621c
+SystemDrive=C:
+NUMBER_OF_PROCESSORS=20
+OS=Windows_NT
+ProgramFiles=C:\Program Files
+ComSpec=C:\WINDOWS\system32\cmd.exe
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+HOME=C:\Users\seram
+PSModulePath=C:\Users\seram\OneDrive\Belgeler\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+TMPDIR=C:\Users\seram\AppData\Local\Temp
+APPDATA=C:\Users\seram\AppData\Roaming
+USERDOMAIN=SEDATVICTUS16
+PROCESSOR_LEVEL=6
+USERPROFILE=C:\Users\seram
+LOCALAPPDATA=C:\Users\seram\AppData\Local
+EFC_22788_1262719628=1
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+EFC_22788_2946480783=1
+COLORTERM=truecolor
+PUBLIC=C:\Users\Public
+EFC_22788_4126798990=1
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\seram\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\seram\AppData\Local\Temp\8cf54345b21b42312d9ae460'... OK
+Reading from temporary file 'C:\Users\seram\AppData\Local\Temp\8cf54345b21b42312d9ae460'... OK
+Deleting temporary file 'C:\Users\seram\AppData\Local\Temp\8cf54345b21b42312d9ae460'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\seram
+UserDataDirectoryPath: C:\Users\seram\.gcm
+GetCurrentDirectory(): C:\Users\seram\Downloads\dblab2026
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:60650/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.54.0.windows.1'
+Locating current repository...Git repository at 'C:/Users/seram/Downloads/dblab2026/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=schannel
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/seram/.gitconfig	core.editor="D:\code\vs\Microsoft VS Code\bin\code" --wait
+file:C:/Users/seram/.gitconfig	user.name=SedatOkdem
+file:C:/Users/seram/.gitconfig	user.email=6jdwb6st8y@privaterelay.appleid.com
+file:C:/Users/seram/.gitconfig	credential.helper=store
+file:C:/Users/seram/.gitconfig	filter.lfs.required=true
+file:C:/Users/seram/.gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Users/seram/.gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Users/seram/.gitconfig	filter.lfs.process=git-lfs filter-process
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/u230709048/dblab2026.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.master.remote=origin
+file:.git/config	branch.master.merge=refs/heads/master
+file:.git/config	user.name=u230709048
+file:.git/config	user.email=sedatgunayokdem@posta.mu.edu.tr
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\seram\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\seram\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
